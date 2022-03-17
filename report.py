@@ -10,15 +10,15 @@ import time
 
 telephone = "xxx"
 # 进校还是出校
-in_or_out = "出校"
-in_or_out_text = "出校 Exit"
+in_or_out = "进校"
+in_or_out_text = "进校 Entrance"
 # 进出校事由
-in_or_out_reason_text = "出校科研 Off-campus Research"
-in_or_out_reason = "出校科研"
+in_or_out_reason_text = "进校科研 On-campus Reseach"
+in_or_out_reason = "进校科研"
 # 事由描述
-description = "xxx"
+description = "进校科研"
 # 校外往来地点
-destination = "xxx"
+destination = "双清路85号"
 
 headers = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
